@@ -1,0 +1,15 @@
+{
+    "author": "absurd:joy",
+    "dependencies": {
+        "com.domybest.mybox": "1.5.1"
+    },
+    "description": "a git repo of absurd:joy's scripts",
+    "displayName": "absurd:joy",
+    "keywords": [ "unity" ],
+    "license": "MIT",
+    "name": "absurdjoy",
+    "repository": "github:hnguyen094/absurdjoy",
+    "unity": "2020.2",
+    "unityRelease": "1f1",
+    "version": "0.0.1a"
+}

@@ -1,0 +1,16 @@
+# live version here: https://www.notion.so/absurd-joy-Software-License-f827154686d643be85bd100b633c6d91
+## Just some non-legally-binding words
+**It's Free!**
+Use our stuff! No charge! Have fun! Even if you are going to be using it commercially, or building a billion dollar business out of it. I mean, if you want to send us a box of chocolates as a thanks or something that is cool, but you have no obligation to.
+**Keep a copy of the license text!**
+If you make anything with our work, you have to include the license text with the source code. This is important so that someone doesn't copy or buy *your* source code and we are lost to the mists of time. This is important because:
+**Attribution is rad!**
+We are, of course, building on the shoulders of giants. We believe in attribution and giving appropriate credit where it is due. You will often see, in our code examples, some shout-outs to originators or contributors to our work. Our license text lists us up there at the top, so people looking at the source code can know we had a hand in things. Note that we AREN'T saying you have to include us in the credits for your compiled projects; though we might blush if you did throw those hearts our way.
+**Be Inspired**
+We hope that our attribution culture and sharing of knowledge inspires you to do the same. As the saying goes, a rising tide floats all boats. It's our aim to make it easier to create rad things in this world, and if you take on that mission as well, we'll exponentially benefit the planet.
+
+**MIT License**
+*Copyright 2021 absurd:joy*
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated  documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
